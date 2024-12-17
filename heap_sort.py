@@ -54,7 +54,7 @@ def heap_sort(arr):
 
 
 # Example usage
-arr = [12, 11, 13, 5, 6, 7]
+arr = [12, 11, 13, 5, 6, 7, 999]
 heap_sort(arr)
 print("Sorted array is", end=" ")
 for i in range(len(arr)):
